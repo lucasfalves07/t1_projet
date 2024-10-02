@@ -1,0 +1,68 @@
+body {
+    background-color: white;
+}
+
+h1 {
+    font-size: 2rem; 
+    text-align: center;
+    display: inline-block; 
+    border-bottom: 2px solid black; 
+    padding-bottom: 5px; 
+}
+
+
+
+h2.titulo {
+    font-size: 1.75rem;
+    font-weight: bold;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.HarryPotter-image {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+    border-radius: 15px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px;
+}
+.AnimaisFantasticos-image {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+    border-radius: 15px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 1.1rem;
+    color: #555;
+    text-align: justify;
+    line-height: 1.8;
+    margin-bottom: 20px;
+}
+
+.container {
+    padding: 40px;
+    max-width: 1200px;
+    margin: 0 auto;
+    background-color: ;
+    border-radius: 12px;
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+.col-lg-5, .col-md-6 {
+    text-align: center;
+    padding: 10px;
+    background-color: whitesmoke;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    transition: transform 0.2s;
+}
+
+.col-lg-5:hover, .col-md-6:hover {
+    transform: scale(1.05);
+}
