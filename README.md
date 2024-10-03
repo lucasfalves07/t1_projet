@@ -8,4 +8,4 @@ T1 - Criação de página utilizando Bootstrap
 
 ## Descrição
 
-Este projeto é uma página web que exibe informações sobre perfumes, incluindo suas descrições, notas de topo, coração e fundo. O projeto foi desenvolvido utilizando HTML, CSS e Bootstrap para estilização e responsividade.
+Este projeto é uma página web que exibe informações sobre a saga de Harry Potter e sua continuação(Animais Fantásticos), com suas respectivas sinopses. O projeto foi desenvolvido utilizando HTML, CSS e Bootstrap para estilização e responsividade.
